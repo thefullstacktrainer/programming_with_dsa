@@ -1,4 +1,4 @@
-package org.excelr;
+package org.excelr.day2;
 
 import java.util.Scanner;
 

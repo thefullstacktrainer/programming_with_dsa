@@ -1,4 +1,4 @@
-package org.excelr;
+package org.excelr.day2;
 
 public class JavaControlStructures {
     public static void main(String[] args) {
