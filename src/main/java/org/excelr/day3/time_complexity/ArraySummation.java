@@ -1,4 +1,4 @@
-package org.excelr.day3;
+package org.excelr.day3.time_complexity;
 
 public class ArraySummation {
     public static int sumArray(int[] arr) {

@@ -1,4 +1,4 @@
-package org.excelr.day3;
+package org.excelr.day3.space_complexity;
 
 public class ConstantSpaceExample {
     public static void main(String[] args) {

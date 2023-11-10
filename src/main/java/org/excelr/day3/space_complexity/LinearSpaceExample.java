@@ -1,4 +1,4 @@
-package org.excelr.day3;
+package org.excelr.day3.space_complexity;
 
 import java.util.Arrays;
 

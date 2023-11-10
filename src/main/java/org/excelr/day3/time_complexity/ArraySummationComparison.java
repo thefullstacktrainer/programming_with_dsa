@@ -1,4 +1,4 @@
-package org.excelr.day3;
+package org.excelr.day3.time_complexity;
 
 import java.util.Random;
 
