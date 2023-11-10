@@ -15,5 +15,12 @@ public class Main {
             // for you, but you can always add more by pressing Cmd+F8.
             System.out.println("i = " + i);
         }
+
+        add(6, 5);
+    }
+
+    public static void add(int a, int b) {
+        int sum = a + b;
+        System.out.println(sum);
     }
 }
