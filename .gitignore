@@ -29,3 +29,4 @@ replay_pid*
 .idea/vcs.xml
 .idea/.gitignore
 *.DS_Store
+.idea/uiDesigner.xml
